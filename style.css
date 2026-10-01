@@ -26,9 +26,13 @@ body::before {
 }
 
 .page-wrap {
-  max-width: 720px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 40px 24px 60px;
+}
+
+.page-wrap--main {
+  max-width: 720px;
 }
 
 .site-header {
@@ -87,7 +91,7 @@ body::before {
 .grid-btn span {
   font-family: var(--font);
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 2rem;
   text-align: center;
   text-decoration: underline;
   display: block;
@@ -120,7 +124,7 @@ body::before {
 .back-link {
   display: inline-block;
   font-family: var(--font);
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: var(--ink);
   text-decoration: underline;
 }
