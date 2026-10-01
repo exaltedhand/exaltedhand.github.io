@@ -52,7 +52,7 @@ body::before {
 
 .site-header .tagline {
   font-family: var(--font);
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: var(--ink);
   line-height: 1.6;
 }
@@ -68,7 +68,7 @@ body::before {
   align-items: center;
   justify-content: center;
   width: 100%;
-  aspect-ratio: 2.5 / 1;
+  aspect-ratio: 2 / 1;
   background: rgba(200, 200, 200, 0.45);
   border: 1px solid var(--ink);
   border-radius: 0;
