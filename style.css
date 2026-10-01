@@ -64,7 +64,7 @@ body::before {
   align-items: center;
   justify-content: center;
   width: 100%;
-  aspect-ratio: 4.4 / 1;
+  aspect-ratio: 3.5 / 1;
   background: rgba(200, 200, 200, 0.45);
   border: 1px solid var(--ink);
   border-radius: 0;
@@ -79,10 +79,10 @@ body::before {
   box-shadow: none;
 }
 
-.grid-btn:focus {
+/* .grid-btn:focus {
   outline: 3px solid var(--ink);
   outline-offset: 2px;
-}
+} */
 
 .grid-btn span {
   font-family: var(--font);
