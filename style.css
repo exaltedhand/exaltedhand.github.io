@@ -26,7 +26,7 @@ body::before {
 }
 
 .page-wrap {
-  max-width: 1260px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 40px 24px 60px;
 }
@@ -114,7 +114,7 @@ body::before {
   line-height: 1.75;
   color: var(--ink);
   margin-bottom: 1.2em;
-  max-width: 680px;
+  /* max-width: 680px; */
 }
 
 .back-link {
