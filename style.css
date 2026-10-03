@@ -109,7 +109,7 @@ body::before {
 .btn-9 span { color: #556b00; }
 
 .content-body {
-  padding-top: 24px;
+  /* padding-top: 24px; */
 }
 
 .content-body p {
