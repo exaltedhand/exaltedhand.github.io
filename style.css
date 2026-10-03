@@ -18,7 +18,7 @@ body::before {
   position: fixed;
   inset: 0;
   background-image: url("/texture.jpg");
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-size: 100% auto;
   background-position: top left;
   opacity: 0.5;
@@ -135,5 +135,11 @@ body::before {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 28px;
+}
+
+.spacer {
+  text-align: center;
+  margin-top: 28px;
   margin-bottom: 28px;
 }
