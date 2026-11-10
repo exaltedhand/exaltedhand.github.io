@@ -46,7 +46,7 @@ body::before {
   font-weight: bold;
   font-size: 2rem;
   color: var(--ink);
-  letter-spacing: 0.04em;
+  /* letter-spacing: 0.04em; */
   margin-bottom: 10px;
 }
 
